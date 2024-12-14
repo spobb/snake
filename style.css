@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: #151516;
+    color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Press Start 2P';
+}
+canvas {
+    border: 1rem solid #222;
+    background: #111;
+}
